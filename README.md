@@ -1,7 +1,6 @@
 # Coconut-LeafGuard
 
-Coconut LeafGuard is an AI-powered web platform designed to support coconut farmers in plant disease detection and product marketing. The system helps farmers identify coconut leaf diseases by uploading images and receiving instant analysis with treatment suggestions. Along with crop care support, the platform also provides an online marketplace where farmers can sell coconut products directly to buyers without intermediaries.
-The platform connects three main users — farmers, buyers, and administrators — in a single system that improves agricultural decision-making and promotes direct farm-to-customer trade.
+Coconut LeafGuard is an AI-powered web platform designed to support coconut farmers in plant disease detection and product marketing. The system helps farmers identify coconut leaf diseases by uploading images and receiving instant analysis with treatment suggestions. Along with crop care support, the platform also provides an online marketplace where farmers can sell coconut products directly to buyers without intermediaries.The platform connects three main users includes farmers, buyers, and administrators in a single system that improves agricultural decision-making and promotes direct farm-to-customer trade.
 
  ✨ Features
 
