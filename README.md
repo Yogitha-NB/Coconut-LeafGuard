@@ -14,31 +14,31 @@ The platform connects three main users — farmers, buyers, and administrators �
 
  🦠 Detected Diseases
 
-Caterpillars damage
-Drying of leaflets
-Flaccidity
-Yellowing
+Caterpillars damage<br>
+Drying of leaflets<br>
+Flaccidity<br>
+Yellowing<br>
 Healthy leaves
 
 🗄️ Database Design
 
-Main tables used:
-users — farmer and buyer accounts
-products — coconut product listings
-disease_detections — AI prediction records
+Main tables used:<br>
+users — farmer and buyer accounts<br>
+products — coconut product listings<br>
+disease_detections — AI prediction records<br>
 favorites — buyer saved products
 
 🛠️ Technology Stack
 
-Programming Language : Python 3.11,HTML,CSS,JavaScript,SQL
-Web Application Framework : Streamlit (latest stable version)
-Database : PostgreSQL 16
-Development Environment : Visual Studio Code (VS Code)
+Programming Language : Python 3.11,HTML,CSS,JavaScript,SQL<br>
+Web Application Framework : Streamlit (latest stable version)<br>
+Database : PostgreSQL 16<br>
+Development Environment : Visual Studio Code (VS Code)<br>
 Operating System :Windows10/Windows 11
 
 ⚙️ Installation
 
-Create virtual environment - python -m venv coconut_env
-Activate environment - coconut_env\Scripts\activate
-Install dependencies - pip install -r requirements.txt
+Create virtual environment - python -m venv coconut_env<br>
+Activate environment - coconut_env\Scripts\activate<br>
+Install dependencies - pip install -r requirements.txt<br>
 Run Application - streamlit run app.py
