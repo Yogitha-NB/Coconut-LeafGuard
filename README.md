@@ -40,4 +40,5 @@ Operating System :Windows10/Windows 11
 Create virtual environment - python -m venv coconut_env<br>
 Activate environment - coconut_env\Scripts\activate<br>
 Install dependencies - pip install -r requirements.txt<br>
+Train your own model - python train_model.py<br>
 Run Application - streamlit run app.py
